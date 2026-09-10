@@ -1,0 +1,1 @@
+I will not write too much on this again because I just messed up and had to start over so I am here again but this project is my first on Odin and I am still very new to this and I dont really have much clue of what im doing. I will do in this project use what I have learned so far about HTML to build a webpage or whatever.cd 
